@@ -11,4 +11,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>es.iespuertodelacruz.odhh.proyectoetsowen.ProyectoETSOwen</exec.mainClass>
     </properties>
+    <name>Deposito</name>
 </project>
