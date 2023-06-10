@@ -39,4 +39,12 @@ public class CCuenta {
             throw new Exception ("No se hay suficiente saldo");
         saldo = saldo - cantidad;
     }
+    
+    public void operativa_cuenta(String accion, double cantidad) throws Exception{
+        if (accion.toLowerCase().equals("retirar")){
+            this.retirar(cantidad);
+        } else if (accion.toLowerCase().equals("ingresar")) {
+            this.ingresar(cantidad);
+        }
+    }
 }
