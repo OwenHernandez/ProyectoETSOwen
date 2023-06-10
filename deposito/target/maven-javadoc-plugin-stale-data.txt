@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/owent/OneDrive/Escritorio/ProyectoETSOwen/ProyectoETSOwen/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/owent/OneDrive/Escritorio/ProyectoETSOwen/ProyectoETSOwen/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoETSOwen 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProyectoETSOwen 1.0-SNAPSHOT API'
+cuentas
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\src\main\java = 1686432904430
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\allclasses-index.html = 1686434055060
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\allpackages-index.html = 1686434055064
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\element-list = 1686434054979
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\help-doc.html = 1686434055119
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\index-all.html = 1686434055104
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\index.html = 1686434055108
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\jquery-ui.overrides.css = 1686434055168
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\member-search-index.js = 1686434055079
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\module-search-index.js = 1686434055068
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\overview-tree.html = 1686434055039
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\package-search-index.js = 1686434055072
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\script.js = 1686434055128
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\search.js = 1686434055135
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\stylesheet.css = 1686434055125
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\tag-search-index.js = 1686434055082
+C:\Users\owent\OneDrive\Escritorio\ProyectoETSOwen\ProyectoETSOwen\target\site\apidocs\type-search-index.js = 1686434055076
